@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "arista.eos",
+  "versions": [
+    {
+      "commit": "adc333e92ec56754001115a1b6ee613e2c3bd925",
+      "tag": "",
+      "parsed_at": "2026-11-07T13:46:18.075734+00:00"
+    }
+  ]
+}
