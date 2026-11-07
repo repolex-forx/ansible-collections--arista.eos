@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/arista.eos/commit/adc333e92ec56754001115a1b6ee613e2c3bd925",
       "git:hexsha": "adc333e92ec56754001115a1b6ee613e2c3bd925",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/arista.eos/commit/c208b3d48f5f20c97454a413db4435a7b0f7643d",
